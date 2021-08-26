@@ -34,6 +34,12 @@ curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utili
 
 
 	执行：
-	catImg.sh https://cdn.jsdelivr.net/gh/91xcode/static@master/base-source/picture-avatar-01.png
+	sh catImg.sh https://cdn.jsdelivr.net/gh/91xcode/static@master/base-source/picture-avatar-01.png
 
+```
+
+
+
+```
+参考：https://zhuanlan.zhihu.com/p/112383265
 ```
